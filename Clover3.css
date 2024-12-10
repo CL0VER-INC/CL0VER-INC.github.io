@@ -1,0 +1,28 @@
+/* Estilo para el formulario */
+#FORMULARIO{
+	border: solid 2px white;
+	background: black;
+	margin: 0 auto;
+	width: 400px;
+	padding: 10px;
+}
+/* Estilo para el titulo */
+h2{
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+
+/* Estilo para los textos del formulario */
+#LABEL{
+	display: block;
+	font-weight: bold;
+	width: 240px;
+	font-size: 12px;
+}
+/* Estilo para las cajas de texto simple */
+#CAJA{
+	padding: 4px;
+	border: solid 1px #aacfe4;
+	margin: 2px 0 5px 0;
+}
